@@ -1,5 +1,5 @@
 class Value {
-    int i ;
+    int i;
 }
 
 public class EqualsMethod {

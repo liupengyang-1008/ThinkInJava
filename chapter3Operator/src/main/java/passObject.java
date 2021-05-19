@@ -1,11 +1,10 @@
-import java.security.spec.RSAOtherPrimeInfo;
-
 class Letter {
     char c;
 }
+
 public class passObject {
     static void f(Letter y) {
-        y.c = 'z' ;
+        y.c = 'z';
     }
 
     public static void main(String[] args) {
@@ -13,6 +12,6 @@ public class passObject {
         x.c = 'a';
         System.out.println("1 x.c :" + x.c);
         f(x);
-        System.out.println("2 x.c :" + x.c );
+        System.out.println("2 x.c :" + x.c);
     }
 }

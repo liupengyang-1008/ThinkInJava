@@ -1,6 +1,6 @@
 public class WhileTest {
     static boolean condition() {
-        double result = Math.random()  ;
+        double result = Math.random();
         System.out.print(result + ",");
         return result < 0.99;
     }

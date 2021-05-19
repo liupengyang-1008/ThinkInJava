@@ -1,4 +1,5 @@
-import java.util.* ;
+import java.util.Random;
+
 public class Bool {
     public static void main(String[] args) {
         Random rand = new Random(47);
