@@ -13,6 +13,7 @@
         <module>chapter3Operator</module>
         <module>chapter4Control</module>
         <module>chapter5Initialization</module>
+        <module>chapter6Access</module>
     </modules>
 
     <properties>
