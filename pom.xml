@@ -15,6 +15,7 @@
         <module>chapter5Initialization</module>
         <module>chapter6Access</module>
         <module>chapter7Reusing</module>
+        <module>chapter8Polymorphism</module>
     </modules>
 
     <properties>
