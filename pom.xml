@@ -16,6 +16,8 @@
         <module>chapter6Access</module>
         <module>chapter7Reusing</module>
         <module>chapter8Polymorphism</module>
+        <module>chapter9Interface</module>
+        <module>chapter10InnerClasses</module>
     </modules>
 
     <properties>
